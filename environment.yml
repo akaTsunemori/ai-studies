@@ -1,0 +1,22 @@
+name: ai-studies
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10.0
+  - pip==23.3.1
+  - pip:
+      - numpy==2.0.2
+      - openpyxl==3.1.5
+      - scikit-image==0.24.0
+      - scikit-learn==1.5.2
+      - scipy==1.14.1
+      - seaborn==0.13.2
+      - torch==2.5.1
+      - torchvision==0.20.1
+      - tune-sklearn==0.5.0
+      - virtualenv==20.27.1
+      - xlsxwriter==3.2.0
+      - tensorflow-cpu==2.18.0
+      - ruff==0.7.2
+      - fastai==2.7.18
+      - ipykernel==6.29.5
