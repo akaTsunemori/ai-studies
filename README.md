@@ -30,8 +30,9 @@ Brasília, thank you Paulo Henrique Portela de Carvalho for the excellent work;
 
 ## Additional information
 Some of the projects were originally written in portuguese (as per 
-requirements), but were later translated to english by me. Moreover, some of 
-the code is not perfect, but keep in mind this repository is a work in progress.
+external requirements), but were later translated to english by me. Moreover, 
+some of the code is not perfect, but keep in mind this repository is a work 
+in progress.
 
 ## License
 MIT License
