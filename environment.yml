@@ -20,3 +20,4 @@ dependencies:
       - ruff==0.7.2
       - fastai==2.7.18
       - ipykernel==6.29.5
+      - ipywidgets==8.1.5
